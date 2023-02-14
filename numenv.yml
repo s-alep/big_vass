@@ -1,0 +1,11 @@
+name: numenv
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - sympy
+  - numpy
+  - matplotlib
+  - ipykernel
+  - pip:
+    - graphviz
